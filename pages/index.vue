@@ -9,7 +9,7 @@
       <div class = "input-group mt-5">
       <div class = "input-group-prepend">
         <div class = "col-xs-2">
-        <span class = "input-group-text">EmailAdd</span> 
+        <span class = "input-group-text">EmailAddress</span> 
         </div>
         <input id = "email" type = "text" class = "form-control" name = "email" placeholder="Email">
       </div>
